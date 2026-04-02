@@ -1,0 +1,90 @@
+﻿Log file produced by: Storyboard Pro (StoryboardPro.exe) version 25.0.0 build 23967 2025-06-05 18:44:20
+﻿2026-04-01 17:40:28;ACTION;begin accum New Sequence (CO_CommandManager.cpp,253)
+﻿2026-04-01 17:40:28;ACTION;end accum (CO_CommandManager.cpp,489)
+﻿2026-04-01 17:41:17;ACTION;begin accum Create Scene (CO_CommandManager.cpp,253)
+﻿2026-04-01 17:41:17;ACTION;end accum (CO_CommandManager.cpp,489)
+﻿2026-04-01 17:41:23;ACTION;begin accum Create Scene (CO_CommandManager.cpp,253)
+﻿2026-04-01 17:41:23;ACTION;end accum (CO_CommandManager.cpp,489)
+﻿2026-04-01 17:41:42;ACTION;begin accum New Sequence (CO_CommandManager.cpp,253)
+﻿2026-04-01 17:41:42;ACTION;end accum (CO_CommandManager.cpp,489)
+﻿2026-04-01 17:41:53;ACTION;begin accum New Sequence (CO_CommandManager.cpp,253)
+﻿2026-04-01 17:41:53;ACTION;end accum (CO_CommandManager.cpp,489)
+﻿2026-04-01 17:42:14;ACTION;begin accum Create Scene (CO_CommandManager.cpp,253)
+﻿2026-04-01 17:42:14;ACTION;end accum (CO_CommandManager.cpp,489)
+﻿2026-04-01 17:42:25;ACTION;begin accum New Sequence (CO_CommandManager.cpp,253)
+﻿2026-04-01 17:42:25;ACTION;end accum (CO_CommandManager.cpp,489)
+﻿2026-04-01 17:42:35;ACTION;begin accum Create Scene (CO_CommandManager.cpp,253)
+﻿2026-04-01 17:42:35;ACTION;end accum (CO_CommandManager.cpp,489)
+﻿2026-04-01 17:42:36;ACTION;begin accum Create Scene (CO_CommandManager.cpp,253)
+﻿2026-04-01 17:42:36;ACTION;end accum (CO_CommandManager.cpp,489)
+﻿2026-04-01 17:42:37;ACTION;begin accum Create Scene (CO_CommandManager.cpp,253)
+﻿2026-04-01 17:42:37;ACTION;end accum (CO_CommandManager.cpp,489)
+﻿2026-04-01 17:42:41;ACTION;begin accum New Sequence (CO_CommandManager.cpp,253)
+﻿2026-04-01 17:42:41;ACTION;end accum (CO_CommandManager.cpp,489)
+﻿2026-04-01 17:42:48;ACTION;begin accum Create Scene (CO_CommandManager.cpp,253)
+﻿2026-04-01 17:42:48;ACTION;end accum (CO_CommandManager.cpp,489)
+﻿2026-04-01 17:42:49;ACTION;begin accum Create Scene (CO_CommandManager.cpp,253)
+﻿2026-04-01 17:42:49;ACTION;end accum (CO_CommandManager.cpp,489)
+﻿2026-04-01 17:42:51;ACTION;begin accum New Sequence (CO_CommandManager.cpp,253)
+﻿2026-04-01 17:42:51;ACTION;end accum (CO_CommandManager.cpp,489)
+﻿2026-04-01 17:43:00;ACTION;begin accum Create Scene (CO_CommandManager.cpp,253)
+﻿2026-04-01 17:43:00;ACTION;end accum (CO_CommandManager.cpp,489)
+﻿2026-04-01 17:43:01;ACTION;begin accum Create Scene (CO_CommandManager.cpp,253)
+﻿2026-04-01 17:43:01;ACTION;end accum (CO_CommandManager.cpp,489)
+﻿2026-04-01 17:44:19;ACTION;Start Saving project
+﻿  2026-04-01 17:44:19;ACTION;Start isSaveProjectPossible (SC_SaveUtil.cpp,335)
+﻿    2026-04-01 17:44:19;Create;C:/Users/JTR/OneDrive/문서/Toon Boom Storyboard Pro Library/ACTcidentMAIN-260401/ACTcidentMAIN-260401.sboard+; OK 
+﻿    2026-04-01 17:44:19;Delete;C:/Users/JTR/OneDrive/문서/Toon Boom Storyboard Pro Library/ACTcidentMAIN-260401/ACTcidentMAIN-260401.sboard+; OK 
+﻿  2026-04-01 17:44:19;ACTION;End isSaveProjectPossible (SC_SaveUtil.cpp,335)
+﻿  2026-04-01 17:44:19;ACTION;Start isSaveProjectPossible (SC_SaveUtil.cpp,335)
+﻿    2026-04-01 17:44:19;Create;C:/Users/JTR/OneDrive/문서/Toon Boom Storyboard Pro Library/ACTcidentMAIN-260401/ACTcidentMAIN-260401.sboard+; OK 
+﻿    2026-04-01 17:44:19;Delete;C:/Users/JTR/OneDrive/문서/Toon Boom Storyboard Pro Library/ACTcidentMAIN-260401/ACTcidentMAIN-260401.sboard+; OK 
+﻿  2026-04-01 17:44:19;ACTION;End isSaveProjectPossible (SC_SaveUtil.cpp,335)
+﻿  2026-04-01 17:44:19;ACTION;Start TUElementMgr::writeToVersionAuxFile (tuelementmgr.cpp,2082)
+﻿    2026-04-01 17:44:19;Create;C:/Users/JTR/OneDrive/문서/Toon Boom Storyboard Pro Library/ACTcidentMAIN-260401/elements; OK 
+﻿    2026-04-01 17:44:19;ACTION;TUElementMgr::writeToVersionAuxFile - element: 1-Draw, operation: 1
+﻿    2026-04-01 17:44:19;Create;C:/Users/JTR/OneDrive/문서/Toon Boom Storyboard Pro Library/ACTcidentMAIN-260401/elements/Draw; OK 
+﻿    2026-04-01 17:44:19;Create;C:/Users/JTR/OneDrive/문서/Toon Boom Storyboard Pro Library/ACTcidentMAIN-260401/scene.elementTable; OK 
+﻿  2026-04-01 17:44:19;ACTION;End TUElementMgr::writeToVersionAuxFile (tuelementmgr.cpp,2082)
+﻿  2026-04-01 17:44:19;ACTION;Start saveDrawings - delete drawings (tudrawinglist.cpp,702)
+﻿  2026-04-01 17:44:19;ACTION;End saveDrawings - delete drawings (tudrawinglist.cpp,702)
+﻿  2026-04-01 17:44:19;ACTION;Start saveDrawings - rename to temp name (tudrawinglist.cpp,732)
+﻿  2026-04-01 17:44:19;ACTION;End saveDrawings - rename to temp name (tudrawinglist.cpp,732)
+﻿  2026-04-01 17:44:19;ACTION;Start saveDrawings - rename to final name (tudrawinglist.cpp,759)
+﻿  2026-04-01 17:44:19;ACTION;End saveDrawings - rename to final name (tudrawinglist.cpp,759)
+﻿  2026-04-01 17:44:19;ACTION;Start saveDrawings - copy all drawings from temp to project (tudrawinglist.cpp,796)
+﻿  2026-04-01 17:44:19;ACTION;End saveDrawings - copy all drawings from temp to project (tudrawinglist.cpp,796)
+﻿  2026-04-01 17:44:19;ACTION;Start saveDrawings - save all modified drawings in memory (tudrawinglist.cpp,861)
+﻿  2026-04-01 17:44:19;ACTION;End saveDrawings - save all modified drawings in memory (tudrawinglist.cpp,861)
+﻿  2026-04-01 17:44:19;ACTION;Start saveProject (SC_SaveUtil.cpp,509)
+﻿    2026-04-01 17:44:19;Create;C:/Users/JTR/OneDrive/문서/Toon Boom Storyboard Pro Library/ACTcidentMAIN-260401/ACTcidentMAIN-260401.sboard+; OK 
+﻿    2026-04-01 17:44:19;Rename;C:\Users\JTR\OneDrive\문서\Toon Boom Storyboard Pro Library\ACTcidentMAIN-260401/ACTcidentMAIN-260401.sboard+;C:\Users\JTR\OneDrive\문서\Toon Boom Storyboard Pro Library\ACTcidentMAIN-260401/ACTcidentMAIN-260401.sboard OK 
+﻿    2026-04-01 17:44:19;ACTION;Start writeToVersionAuxFile (tuelementmgr.cpp,2542)
+﻿      2026-04-01 17:44:19;ACTION;Start writeToVersionAuxFile (EM_XMLFileIO.cpp,318)
+﻿        2026-04-01 17:44:19;Create;C:/Users/JTR/OneDrive/문서/Toon Boom Storyboard Pro Library/ACTcidentMAIN-260401/ACTcidentMAIN-260401.aux; OK 
+﻿      2026-04-01 17:44:19;ACTION;End writeToVersionAuxFile (EM_XMLFileIO.cpp,318)
+﻿    2026-04-01 17:44:19;ACTION;End writeToVersionAuxFile (tuelementmgr.cpp,2542)
+﻿  2026-04-01 17:44:19;ACTION;End saveProject (SC_SaveUtil.cpp,509)
+﻿  2026-04-01 17:44:19;ACTION;Start writeToDrawingVersionAuxFile (EM_XMLFileIO.cpp,372)
+﻿    2026-04-01 17:44:19;Create;C:/Users/JTR/OneDrive/문서/Toon Boom Storyboard Pro Library/ACTcidentMAIN-260401/scene.versionTable; OK 
+﻿  2026-04-01 17:44:19;ACTION;End writeToDrawingVersionAuxFile (EM_XMLFileIO.cpp,372)
+﻿  2026-04-01 17:44:19;Create;C:/Users/JTR/OneDrive/문서/Toon Boom Storyboard Pro Library/ACTcidentMAIN-260401/palette-library; OK 
+﻿  2026-04-01 17:44:19;Create;C:/Users/JTR/OneDrive/문서/Toon Boom Storyboard Pro Library/ACTcidentMAIN-260401/palette-library/ACTcidentMAIN-260401_pencil_texture.plt; OK 
+﻿  2026-04-01 17:44:19;Create;C:/Users/JTR/OneDrive/문서/Toon Boom Storyboard Pro Library/ACTcidentMAIN-260401/palette-library/ACTcidentMAIN-260401_pencil_texture_textures; OK 
+﻿  2026-04-01 17:44:19;Create;C:/Users/JTR/OneDrive/문서/Toon Boom Storyboard Pro Library/ACTcidentMAIN-260401/palette-library/ACTcidentMAIN-260401.plt; OK 
+﻿  2026-04-01 17:44:19;Create;C:/Users/JTR/OneDrive/문서/Toon Boom Storyboard Pro Library/ACTcidentMAIN-260401/PALETTE_LIST; OK 
+﻿  2026-04-01 17:44:19;Create;C:/Users/JTR/OneDrive/문서/Toon Boom Storyboard Pro Library/ACTcidentMAIN-260401/ACTcidentMAIN-260401.sboard.thumbnails; OK 
+﻿  2026-04-01 17:44:19;Delete;C:/Users/JTR/AppData/Roaming/Toon Boom Animation/Toon Boom Storyboard Pro/full-2500-pref/Storyboard Pro-pref.xml~; OK 
+﻿  2026-04-01 17:44:19;Rename;C:/Users/JTR/AppData/Roaming/Toon Boom Animation/Toon Boom Storyboard Pro/full-2500-pref/Storyboard Pro-pref.xml;Storyboard Pro-pref.xml~ OK 
+﻿  2026-04-01 17:44:19;Rename;C:/Users/JTR/AppData/Roaming/Toon Boom Animation/Toon Boom Storyboard Pro/full-2500-pref/Storyboard Pro-pref.xml+;Storyboard Pro-pref.xml OK 
+﻿2026-04-01 17:44:19;ACTION;End Saving project
+﻿2026-04-01 17:44:44;Delete;C:/Users/JTR/AppData/Roaming/Toon Boom Animation/Toon Boom Storyboard Pro/full-2500-pref/Storyboard Pro-pref.xml~; OK 
+﻿2026-04-01 17:44:44;Rename;C:/Users/JTR/AppData/Roaming/Toon Boom Animation/Toon Boom Storyboard Pro/full-2500-pref/Storyboard Pro-pref.xml;Storyboard Pro-pref.xml~ OK 
+﻿2026-04-01 17:44:44;Rename;C:/Users/JTR/AppData/Roaming/Toon Boom Animation/Toon Boom Storyboard Pro/full-2500-pref/Storyboard Pro-pref.xml+;Storyboard Pro-pref.xml OK 
+﻿2026-04-01 17:44:44;ACTION;Start Closing project
+﻿  2026-04-01 17:44:44;Delete;C:/Users/JTR/OneDrive/문서/Toon Boom Storyboard Pro Library/ACTcidentMAIN-260401/ACTcidentMAIN-260401.sboard.lock; OK 
+﻿  2026-04-01 17:44:58;Delete;C:/Users/JTR/AppData/Local/Temp/ToonBoomSessionTempDir/1700/elements/1.d; OK 
+﻿  2026-04-01 17:44:58;Delete;C:/Users/JTR/AppData/Local/Temp/ToonBoomSessionTempDir/1700/elements/1.e; OK 
+﻿  2026-04-01 17:44:58;Delete;C:/Users/JTR/AppData/Local/Temp/ToonBoomSessionTempDir/1700/elements; OK 
+﻿  2026-04-01 17:44:58;Delete;C:/Users/JTR/AppData/Local/Temp/ToonBoomSessionTempDir/1700; OK 
+﻿2026-04-01 17:44:59;ACTION;End Closing project
