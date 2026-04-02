@@ -1,0 +1,18 @@
+# Storyboard Pro generated folders
+*.sbspro/
+*.sbsdata/
+# Or if using older versions, the project-name folders
+# *.sbs/
+
+# Local render files and temporary data
+renders/
+Render/
+temp/
+*.tmp
+
+# User-specific settings (optional - remove if sharing layouts)
+*.settings/
+
+# OS specific
+.DS_Store
+Thumbs.db
